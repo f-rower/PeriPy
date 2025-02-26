@@ -20,7 +20,7 @@ install_requires = [
         'scipy',
         'tqdm',
         'h5py',
-        'sklearn',
+        'scikit-learn',
         'tqdm',
         'sphinx_rtd_theme'
         ]
